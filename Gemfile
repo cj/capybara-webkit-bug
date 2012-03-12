@@ -11,6 +11,7 @@ group :assets do
 end
 
 gem 'jquery-rails'
+gem "twitter-bootstrap-rails"
 
 group :test, :development do
   gem "rspec-rails", ">= 2.8.0.rc1"
